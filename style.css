@@ -202,14 +202,14 @@ button {
      font-size: 45px;
      font-weight: bold;
      line-height: 45px;
-     color:#37db81;
+     color:#000000;
      text-transform: uppercase;
 }
 
 .read_more {
      display: inline-block;
-     background: #5fc3b0;
-     color: #dee4fd;
+     background: #66CDAA;
+     color: #000000;
      max-width: 238px;
      height: 69px;
      line-height: 69px;
@@ -222,7 +222,7 @@ button {
 }
 
 .read_more:hover {
-     background: #5fc3b0;
+     background: #8A2BE2;
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -454,7 +454,7 @@ ul.email li {
 /** about **/
 
 .about {
-     background: #ACE1AF;
+     background: #c2f2d0;
      padding-top: 200px;
 }
 
@@ -913,7 +913,7 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-     background: #009080;
+     background: #66CDAA;
      color: #fff;
      transform: rotate(360deg);
      transition: ease-in all 0.7s;
@@ -948,7 +948,7 @@ ul.social_icon li a:hover {
 }
 
 .subs_btn:hover {
-     background: #7b80ee8a;
+     background: #66CDAA;
      transition: ease-in all 0.5s;
 }
 
@@ -979,7 +979,7 @@ ul.social_icon li a:hover {
 
 /*- - ener page css--*/
 .inner_page header {
-     background: #8187fa;
+     background: #66CDAA;
 }
 .inner_page .padd_30 {
     padding:0px;
