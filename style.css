@@ -22,7 +22,7 @@ basic
 ---------------------------------------------------------------------*/
 
 body {
-     color: #875786;
+     color: #1e3f57;
      font-size: 14px;
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
@@ -58,27 +58,27 @@ h6 {
 }
 
 h1 {
-     font-size: 24px
+     font-size: 35px
 }
 
 h2 {
-     font-size: 22px
+     font-size: 28px
 }
 
 h3 {
-     font-size: 18px
+     font-size: 20px
 }
 
 h4 {
-     font-size: 16px
+     font-size: 18px
 }
 
 h5 {
-     font-size: 14px
+     font-size: 16px
 }
 
 h6 {
-     font-size: 13px
+     font-size: 14px
 }
 
 *,
@@ -299,7 +299,7 @@ menu section
 ---------------------------------------------------------------------*/
 
 .logo a {
-    font-size: 40px;
+    font-size: 100px;
     line-height: 40px;
     color: #fff !important;
     font-weight: bold;
